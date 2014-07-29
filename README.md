@@ -6,6 +6,6 @@ The first game I designed. Music is "Legendary Fish" from Touhou.
 Usage
 =========
 
-python -m SimpleHTTPServer 9090
+python -m SimpleHTTPServer 9999
 
-then browse to <a href="http://localhost:9090">localhost</a>
+then browse to <a href="http://localhost:9999">localhost</a>
