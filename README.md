@@ -1,4 +1,4 @@
-Rare-Fish
+Rare Fish
 =========
 The first game designed. First usage of javascript. 
 
