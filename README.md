@@ -2,6 +2,8 @@ Rare Fish
 =========
 The first game designed. First usage of javascript alongside the phaser engine.
 
+You can play the game <a href="http://mason.gmu.edu/~wzhu2/rareFish/fishdex.html">here</a>. 
+
 Usage
 =========
 python -m SimpleHTTPServer 9999
@@ -10,4 +12,4 @@ then browse to <a href="http://localhost:9999">localhost</a>
 
 Attribution
 =========
-Music is "Legendary Fish" from Touhou Project. 
+This game originally was based on the ost song "Legendary Fish" from Touhou which has since been removed from the commits.
