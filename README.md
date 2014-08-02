@@ -1,6 +1,6 @@
 Rare Fish
 =========
-The first game designed. First usage of javascript. 
+The first game designed. First usage of javascript alongside the phaser engine.
 
 Usage
 =========
