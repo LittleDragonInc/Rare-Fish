@@ -8,13 +8,10 @@ window.onload = function() {
 	var counter= 1;
 	var temp;
 	var text;
-	var music;
 
 	function preload() {
 		game.load.image('diamond', 'resources/green_ball.png');
 		game.load.image('poison', 'resources/blue_ball.png');
-
-		game.load.audio('fish','resources/fish.ogg');
 	}
 
 	function create() {
@@ -39,12 +36,7 @@ window.onload = function() {
 		p.start(false, 5000, 10, 100000);
 
 		game.time.events.loop(Phaser.Timer.SECOND*.65, move, this);
-		text = game.add.text(25, 660, 'DogCoin: 0', { font: "18px Arial", fill: "#ffffff", align: "center" });
-		music = game.add.audio('fish',1,true);
-		
-		music.play('',0,1,true);
-
-
+		text = game.add.text(25, 660, 'DogCoin: 0', { font: "18px Arial", fill: "#ffffff", align: "center" });		
 	}
 	function overSprite() {
 
