@@ -2,7 +2,7 @@ Rare Fish
 =========
 The first game designed. First usage of javascript alongside the phaser engine.
 
-You can play the game <a href="http://mason.gmu.edu/~wzhu2/rareFish/fishdex.html">here</a>. 
+<s>You can play the game <a href="http://mason.gmu.edu/~wzhu2/rareFish/fishdex.html">here</a>.</s>
 
 Usage
 =========
